@@ -1,0 +1,8 @@
+F:\курсовая\ConsoleApplication39\ConsoleApplication39\bin\Release\ConsoleApplication39.exe
+F:\курсовая\ConsoleApplication39\ConsoleApplication39\bin\Release\ConsoleApplication39.pdb
+F:\курсовая\ConsoleApplication39\ConsoleApplication39\obj\x86\Release\ConsoleApplication39.exe
+F:\курсовая\ConsoleApplication39\ConsoleApplication39\obj\x86\Release\ConsoleApplication39.pdb
+G:\курсовая\ConsoleApplication39\ConsoleApplication39\obj\x86\Release\ConsoleApplication39.exe
+G:\курсовая\ConsoleApplication39\ConsoleApplication39\obj\x86\Release\ConsoleApplication39.pdb
+G:\курсовая\ConsoleApplication39\ConsoleApplication39\bin\Release\ConsoleApplication39.exe
+G:\курсовая\ConsoleApplication39\ConsoleApplication39\bin\Release\ConsoleApplication39.pdb

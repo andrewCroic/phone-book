@@ -1,0 +1,24 @@
+c:\users\андрей\documents\visual studio 2010\Projects\ConsoleApplication39\ConsoleApplication39\bin\Debug\ConsoleApplication39.exe
+c:\users\андрей\documents\visual studio 2010\Projects\ConsoleApplication39\ConsoleApplication39\bin\Debug\ConsoleApplication39.pdb
+c:\users\андрей\documents\visual studio 2010\Projects\ConsoleApplication39\ConsoleApplication39\obj\x86\Debug\ConsoleApplication39.exe
+c:\users\андрей\documents\visual studio 2010\Projects\ConsoleApplication39\ConsoleApplication39\obj\x86\Debug\ConsoleApplication39.pdb
+C:\Users\Андрей\Documents\Visual Studio 2010\Projects\ConsoleApplication39\ConsoleApplication39\obj\x86\Debug\ConsoleApplication39.csprojResolveAssemblyReference.cache
+G:\курсовая\ConsoleApplication39\ConsoleApplication39\obj\x86\Debug\ConsoleApplication39.exe
+G:\курсовая\ConsoleApplication39\ConsoleApplication39\obj\x86\Debug\ConsoleApplication39.pdb
+G:\курсовая\ConsoleApplication39\ConsoleApplication39\bin\Debug\ConsoleApplication39.exe
+G:\курсовая\ConsoleApplication39\ConsoleApplication39\bin\Debug\ConsoleApplication39.pdb
+F:\курсовая\ConsoleApplication39\ConsoleApplication39\obj\x86\Debug\ConsoleApplication39.exe
+F:\курсовая\ConsoleApplication39\ConsoleApplication39\obj\x86\Debug\ConsoleApplication39.pdb
+F:\курсовая\ConsoleApplication39\ConsoleApplication39\bin\Debug\ConsoleApplication39.exe
+F:\курсовая\ConsoleApplication39\ConsoleApplication39\bin\Debug\ConsoleApplication39.pdb
+G:\курсовая практика\ConsoleApplication39\ConsoleApplication39\obj\x86\Debug\ConsoleApplication39.exe
+G:\курсовая практика\ConsoleApplication39\ConsoleApplication39\obj\x86\Debug\ConsoleApplication39.pdb
+G:\курсовая практика\ConsoleApplication39\ConsoleApplication39\bin\Debug\ConsoleApplication39.exe
+G:\курсовая практика\ConsoleApplication39\ConsoleApplication39\bin\Debug\ConsoleApplication39.pdb
+G:\курсовая практика\ConsoleApplication39\ConsoleApplication39\obj\x86\Debug\ConsoleApplication39.csprojResolveAssemblyReference.cache
+F:\курсовая\ConsoleApplication39\ConsoleApplication39\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\курсовая\ConsoleApplication39\ConsoleApplication39\obj\x86\Debug\ConsoleApplication39.csprojResolveAssemblyReference.cache
+G:\КУРСОВАЯ\код проекта\ConsoleApplication39\ConsoleApplication39\obj\x86\Debug\ConsoleApplication39.exe
+G:\КУРСОВАЯ\код проекта\ConsoleApplication39\ConsoleApplication39\obj\x86\Debug\ConsoleApplication39.pdb
+D:\УНИВЕР\КУРСАЧИ\1 курс\КУРСОВАЯ\код проекта\ConsoleApplication39\ConsoleApplication39\obj\x86\Debug\ConsoleApplication39.exe
+D:\УНИВЕР\КУРСАЧИ\1 курс\КУРСОВАЯ\код проекта\ConsoleApplication39\ConsoleApplication39\obj\x86\Debug\ConsoleApplication39.pdb
